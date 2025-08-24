@@ -84,7 +84,7 @@ const App: React.FC = () => {
               </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-900">Decoricks Finance App</h1>
-                <p className="text-sm text-gray-500">Home Decor Business Tracker</p>
+{/*                 <p className="text-sm text-gray-500">Home Decor Business Tracker</p> */}
               </div>
             </div>
             <div className="text-sm text-gray-500">
