@@ -1,0 +1,172 @@
+{
+  "transactions": [
+    {
+      "id": "meq3fl6ao7pzjge3y1h",
+      "type": "expense",
+      "amount": 4640,
+      "currency": "PKR",
+      "category": "Refund Amount",
+      "description": "Refundable amount to Hanzla Noman.",
+      "date": "2025-08-01",
+      "createdAt": "2025-08-24T19:40:49.522Z"
+    },
+    {
+      "id": "meq3h80hseq5c15490b",
+      "type": "expense",
+      "amount": 5380,
+      "currency": "PKR",
+      "category": "Inventory/Stock Purchase",
+      "description": "(Abdullah Sarwar) Buy products for our Store | DECORICKS.COM",
+      "date": "2025-08-01",
+      "createdAt": "2025-08-24T19:42:05.777Z"
+    },
+    {
+      "id": "meq3jkdu1jky4paulxt",
+      "type": "expense",
+      "amount": 3380,
+      "currency": "PKR",
+      "category": "Inventory/Stock Purchase",
+      "description": "(Hafiz Abdullah) Buy products for our Store | DECORICKS.COM",
+      "date": "2025-08-01",
+      "createdAt": "2025-08-24T19:43:55.122Z"
+    },
+    {
+      "id": "meq3kupez2jb596p9w",
+      "type": "expense",
+      "amount": 163,
+      "currency": "PKR",
+      "category": "Ads Tax",
+      "description": "Meta Ads Tax",
+      "date": "2025-08-21",
+      "createdAt": "2025-08-24T19:44:55.154Z"
+    },
+    {
+      "id": "meq3ldi2it7lumvkul9",
+      "type": "expense",
+      "amount": 1030,
+      "currency": "PKR",
+      "category": "Ads/Marketing",
+      "description": "(Abdullah Sarwar) For Meta Ads | 1st",
+      "date": "2025-08-21",
+      "createdAt": "2025-08-24T19:45:19.514Z"
+    },
+    {
+      "id": "meq3ltewhx23pbb30r4",
+      "type": "expense",
+      "amount": 850,
+      "currency": "PKR",
+      "category": "Ads/Marketing",
+      "description": "(Hafiz Abdullah) For Meta Ads | 1st",
+      "date": "2025-08-21",
+      "createdAt": "2025-08-24T19:45:40.136Z"
+    },
+    {
+      "id": "meq3ni3jcyd1tpxjucd",
+      "type": "expense",
+      "amount": 3000,
+      "currency": "PKR",
+      "category": "Ads/Marketing",
+      "description": "(Abdullah Sarwar) For Meta Ads | 2nd",
+      "date": "2025-08-24",
+      "createdAt": "2025-08-24T19:46:58.783Z"
+    },
+    {
+      "id": "meq3nsqrcas7pxdacmi",
+      "type": "expense",
+      "amount": 2000,
+      "currency": "PKR",
+      "category": "Ads/Marketing",
+      "description": "(Hafiz Abdullah) For Meta Ads | 2nd",
+      "date": "2025-08-24",
+      "createdAt": "2025-08-24T19:47:12.579Z"
+    },
+    {
+      "id": "meq3ppby2fyosrrhuw3",
+      "type": "expense",
+      "amount": 1000,
+      "currency": "PKR",
+      "category": "Packaging",
+      "description": "Bubble wraps for packaging.",
+      "date": "2025-08-20",
+      "createdAt": "2025-08-24T19:48:41.470Z"
+    },
+    {
+      "id": "meq3yk46xtsatcil4jl",
+      "type": "expense",
+      "amount": 5000,
+      "currency": "PKR",
+      "category": "Maintenance",
+      "description": "buy a domain for our store | DECORICKS.COM",
+      "date": "2025-08-24",
+      "createdAt": "2025-08-24T19:55:34.614Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Sales (orders)",
+      "type": "income",
+      "isDefault": true
+    },
+    {
+      "id": "2",
+      "name": "Custom Orders",
+      "type": "income",
+      "isDefault": true
+    },
+    {
+      "id": "3",
+      "name": "Other Income",
+      "type": "income",
+      "isDefault": true
+    },
+    {
+      "id": "4",
+      "name": "Decor Material",
+      "type": "expense",
+      "isDefault": true
+    },
+    {
+      "id": "5",
+      "name": "Ads/Marketing",
+      "type": "expense",
+      "isDefault": true
+    },
+    {
+      "id": "6",
+      "name": "Packaging",
+      "type": "expense",
+      "isDefault": true
+    },
+    {
+      "id": "7",
+      "name": "Delivery/Courier Charges",
+      "type": "expense",
+      "isDefault": true
+    },
+    {
+      "id": "8",
+      "name": "Maintenance",
+      "type": "expense",
+      "isDefault": true
+    },
+    {
+      "id": "9",
+      "name": "Inventory/Stock Purchase",
+      "type": "expense",
+      "isDefault": true
+    },
+    {
+      "id": "meq3fiksj4lca4it12",
+      "name": "Refund Amount",
+      "type": "expense",
+      "isDefault": false
+    },
+    {
+      "id": "meq3kkzwqqpoivtnwjb",
+      "name": "Ads Tax",
+      "type": "expense",
+      "isDefault": false
+    }
+  ]
+}
